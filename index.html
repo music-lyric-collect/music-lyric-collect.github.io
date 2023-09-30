@@ -4,8 +4,19 @@ layout: default
 
 <div class="page clearfix" index>
     <div class="left">
-        <h1>Welcome to HyG's Blog!</h1>
-        <small>这里记录着我的前端学习之路</small>
+        <h1>Music Lyric Collect</h1>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6616068062151909"
+                crossorigin="anonymous"></script>
+        <!-- [반응형] 사각 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-6616068062151909"
+             data-ad-slot="2690449428"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
         <hr>
         <ul>
             {% for post in paginator.posts %}
@@ -87,7 +98,8 @@ layout: default
                     Categories
                 </div>
                 <ul class="content-ul" cate>
-                    {% for category in site.categories order:ascending %}
+                    {% assign sorted_categories = site.categories | sort %}
+                    {% for category in sorted_categories %}
                     <li>
                         <a href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}" class="categories-list-item" cate="{{ category | first }}">
                             <span class="name">
@@ -119,7 +131,11 @@ layout: default
                     {% assign diff = max | minus: min %}
 
                     {% for tag in site.tags %}
-                      {% assign temp = tag[1].size | minus: min | times: 36 | divided_by: diff %}
+                      {% if diff == 0 %}
+                        {% assign temp = tag[1].size | minus: min | times: 36 %}
+                      {% else %}
+                        {% assign temp = tag[1].size | minus: min | times: 36 | divided_by: diff %}
+                      {% endif %}
                       {% assign base = temp | divided_by: 4 %}
                       {% assign remain = temp | modulo: 4 %}
                       {% if remain == 0 %}

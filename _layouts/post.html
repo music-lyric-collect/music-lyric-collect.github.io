@@ -30,6 +30,18 @@ layout: default
 
         </div>
         <hr>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6616068062151909"
+                crossorigin="anonymous"></script>
+        <!-- [반응형] 상단 사각 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-6616068062151909"
+             data-ad-slot="2690449428"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
         <article itemscope itemtype="http://schema.org/BlogPosting">
         {{content}}
         </article>
@@ -72,17 +84,32 @@ layout: default
         <div class="wrap">
 
             <!-- Content -->
+<!--            <div class="side content">-->
+<!--                <div>-->
+<!--                    Content-->
+<!--                </div>-->
+<!--                <ul id="content-side" class="content-ul">-->
+<!--                    <li><a href="#similar_posts">Similar Posts</a></li>-->
+<!--                    <li><a href="#comments">Comments</a></li>-->
+<!--                </ul>-->
+<!--            </div>-->
+            <!-- (s) category post list -->
             <div class="side content">
+                {% capture category %}{{ page.categories | first }}{% endcapture %}
                 <div>
-                    Content
+                    {{ category }}
                 </div>
-                <ul id="content-side" class="content-ul">
-                    <li><a href="#similar_posts">Similar Posts</a></li>
-                    <li><a href="#comments">Comments</a></li>
-                </ul>
+                {% assign category_length = page.categories[0] | size %}
+                {% for post in site.categories[category] limit: 5 %}
+                <li>
+                    <a href="{{ post.url | relative_url }}">
+                        {% assign title_parts = post.title | replace: "- ", " [" | split: " [" %}
+                        {{ title_parts[1] }}
+                    </a>
+                </li>
+                {% endfor %}
             </div>
-            <!-- 其他div框放到这里 -->
-            <!-- <div class="side">bbbb</div> -->
+            <!-- (e) category post list -->
         </div>
     </div>
 </div>
