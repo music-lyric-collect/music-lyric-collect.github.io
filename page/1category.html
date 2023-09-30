@@ -5,13 +5,12 @@ permalink: /category/
 icon: th-list
 ---
 
-
+{% assign sorted_categories = site.categories | sort %}
 <div class="page clearfix">
     <div class="left">
         <h1>{{page.title}}</h1>
         <hr>
         <ul>
-            {% assign sorted_categories = site.categories | sort %}
             {% for category in sorted_categories %}
             <h2 id="{{category | first}}">{{category | first}}</h2>
                 {% for posts in category  %}
@@ -41,7 +40,7 @@ icon: th-list
                     Content
                 </div>
                 <ul id="content-side" class="content-ul">
-                    {% for category in site.categories%}
+                    {% for category in sorted_categories %}
                         <li>
                             <a class="scroll" href="#{{ category | first }}">
                                 {{ category | first }} ({{ category | last | size }})
