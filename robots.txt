@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://music-lyric-collect.github.io/sitemap.xml
