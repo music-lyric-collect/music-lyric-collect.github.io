@@ -7,7 +7,8 @@ tags: K-POP
 ---
 
 <div class="youtube-iframe-container iframe-16-to-9">
-    <iframe src="https://www.youtube.com/embed/EIz09kLzN9k?si=AkUGnwkNDYlZa7eH" title="Aimer - After Rain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/EIz09kLzN9k" title="AKMU - Love Lee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </div>
 
 You know  

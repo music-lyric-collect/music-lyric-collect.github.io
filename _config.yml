@@ -5,6 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+
+# 언어 설정
+lang: ko
+
+# 타임존 설정
+timezone: Asia/Seoul
+
 # Site settings
 title: Music Lyric Collect
 brief-intro:
