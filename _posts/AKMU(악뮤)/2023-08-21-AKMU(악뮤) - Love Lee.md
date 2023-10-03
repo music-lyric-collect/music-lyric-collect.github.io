@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "AKMU(악뮤) - Love Lee [가사/lyrics]"
-date:   2023-08-21 00:00:00 +0900
+title: "AKMU(악뮤) - Love Lee [가사/lyrics]"
+date: 2023-08-21 00:00:00 +0900
 category: AKMU(악뮤)
 tags: K-POP
 ---
 
 <div class="youtube-iframe-container iframe-16-to-9">
-    <iframe src="https://www.youtube.com/embed/EIz09kLzN9k" title="AKMU - Love Lee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+    <iframe src="https://www.youtube.com/embed/EIz09kLzN9k" title="AKMU(악뮤) - Love Lee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 You know  
@@ -24,7 +23,7 @@ I love it because I love you
 우리 앞 우리 옆 시기시기질투  
 자유로운 날갯짓 훨훨훨  
 꽃송이가 나를 삼킬 걸  
-알면서 난 뛰어들었어  
+알면서 난 뛰어들었어   
 Jump j-j-jump jump jump jump
 
 So lovely day so lovely  
@@ -39,7 +38,8 @@ You know
 아끼는 옷에 coffee를 쏟아도  
 You know  
 내가 준 목걸이를 잃어버려도  
-한 번 더 같은 것 사준 걸 다시 또 잃어도 좋아  
+한 번 더 같은 것 사준 걸   
+다시 또 잃어도 좋아  
 I don't care I just care about you
 
 여기 어때 how you like that  
