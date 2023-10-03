@@ -74,7 +74,7 @@ I'm on ma way
 Americano Caramel Macchiato  
 Green Mint or Vanilla   
 Hazelnut 도 안 어울려   
-그댄 
+그댄
 
 달콤하게 다가와 줘   
 Hot Deep Chocolady  

@@ -18,7 +18,7 @@ tags: K-POP
 
 Everybody like it  
 나의 상처로  
-짓눌러 써내린 멜로디 
+짓눌러 써내린 멜로디
 
 Look at me smiling  
 무대 위에 선 날 봐  
@@ -31,7 +31,6 @@ For me, I sing stupid love song
 So keep it up boy  
 You live your life
 
-  
 순간의 단어  
 감정적인 결정  
 모든 건 내 실수였어
@@ -44,8 +43,6 @@ Everybody does it
 우린 특별한  
 이별인 줄 알았었잖아
 
-
-
 Look at this people  
 이 노랠 즐기는 모두가  
 다 한 번쯤 겪었단 거야
@@ -57,11 +54,9 @@ For me, I sing stupid love song
 So keep it up boy  
 You live your life
 
-  
 거리 어딘가에서  
 이 노래가 흘러도
 
-  
 For me, I sing stupid love song  
 이 노래에 지금 넌 없어  
 나와 내 앞에 이 Scene만 남아  

@@ -24,7 +24,7 @@ Ooh can't nobody do it like you
 Ooh Say every little thing you do  
 hey baby Say it stays on my mind  
 And I I'm officially missing you  
-And I I'm officially missing you 
+And I I'm officially missing you
 
 지나온 추억 여름에서부터 추워진  
 오늘까지도 함께 꿈꾸는 나의 소원  

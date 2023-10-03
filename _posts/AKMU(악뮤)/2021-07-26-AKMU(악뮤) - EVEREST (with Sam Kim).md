@@ -47,7 +47,7 @@ Who climbs the mountain
 Who climbs the mount  
 How so tall 끝이 있을까  
 How beautiful nothing similar   
-How so tall, You can reach the night 
+How so tall, You can reach the night
 
 Oh EVEREST  
 Oh EVEREST  

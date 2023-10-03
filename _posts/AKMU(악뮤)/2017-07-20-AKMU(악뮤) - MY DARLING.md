@@ -69,7 +69,7 @@ You are my baby
 이젠 내 사랑 My darling  
 평생 내 옆자리에서 웃어요  
 행복한 기분이 샘솟아  
-눈물이 다 
+눈물이 다
 
 이젠 내 사랑 My darling  
 평생 나의 곁에서 머물러요  

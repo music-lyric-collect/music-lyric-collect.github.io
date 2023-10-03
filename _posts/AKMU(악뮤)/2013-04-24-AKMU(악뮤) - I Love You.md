@@ -42,7 +42,7 @@ you 사랑해요
 너에게만 잘 보이려고 막 그래 난 그래  
 I love you 사랑해요  
 널 보는 날이면 둘만 만나는 날이 아닌데도  
-막 설레고 그런다니깐요 
+막 설레고 그런다니깐요
 
 I love you I love you I love you 워우워  
 I love you I love you I love you 워우워  
