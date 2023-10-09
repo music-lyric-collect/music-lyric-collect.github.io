@@ -38,8 +38,7 @@ You know
 아끼는 옷에 coffee를 쏟아도  
 You know  
 내가 준 목걸이를 잃어버려도  
-한 번 더 같은 것 사준 걸   
-다시 또 잃어도 좋아  
+한 번 더 같은 것 사준 걸 다시 또 잃어도 좋아  
 I don't care I just care about you
 
 여기 어때 how you like that  

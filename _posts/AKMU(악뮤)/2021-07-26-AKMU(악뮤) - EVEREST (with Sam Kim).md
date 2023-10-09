@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "AKMU(악뮤) - EVEREST (with Sam Kim)  [가사/lyrics]"
+title: "AKMU(악뮤) - EVEREST (with Sam Kim) [가사/lyrics]"
 date: 2021-07-26 00:00:00 +0900
 category: AKMU(악뮤)
 tags: K-POP
 ---
 
 <div class="youtube-iframe-container iframe-16-to-9">
-    <iframe src="https://www.youtube.com/embed/HlYMu0356WQ" title="AKMU(악뮤) - EVEREST (with Sam Kim) " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/HlYMu0356WQ" title="AKMU(악뮤) - EVEREST (with Sam Kim)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 눈이 쌓인 그곳  
